@@ -1,0 +1,107 @@
+Array is a collection of elements/values having same data type.it is also knwon as collection
+homogenous elements/values.we use array so that multiple values of same datatype we can 
+store in one variable.first value of an array is stored in 0th index.
+
+int arr[]={1,2,3,4,5};
+arr[0]=1
+arr[1]=2
+arr[2]=3
+arr[3]=4
+arr[4]=5
+
+Assignment on Arrays
+Q1.WAP where there will be 2 arrays and find out unmatched values
+ex:- arr1[]={1,2,3}
+     arr2[]={3,4,5}
+
+Ans 1 and 2 values from arr1 are not matched
+
+Q2. WAP to read the name from user and print it in following format
+Ex:- Keshav
+K
+Ke
+Kes
+Kesh
+Kesha
+Keshav
+
+Q3. WAP to print the minimum value from array
+Ex:- int arr1[]={1,3,2}
+
+Output :-
+minimum value is 1
+----------------------------------------------------------------------------
+OOP helps us to understrand programming concepts by comparing them with real-world
+examples, it is also called as "Real-World Modelling".initially it was introduced by
+bjarne stroustrup in C++.
+
+
+			CAR						LMS
+Properties		model,engine,color,wheels		Rid,Rname,Rmobile
+								Aid,Aname,Amobile
+								Bid,Bname,Btype,bpage
+
+Behavior/method		start(),stop(),acc(),break()		getReadersInfo(),printReadersInfo()
+			reverse(),beep();			getAuthorInfo(),printAuthorInfo()
+								getBookInfo(),printBookInfo()
+								fine()
+Features of OOP
+1.Object	:-object is any real thing in the world which we can see,touch,feel or being presentable
+		to the senses.object have its own properties and method by which we can identify that
+		object.object is unique,object have its own limitations which that object cannot crossed.
+		object is an instance of a class,object is a run-time entity
+ 
+2.Class		:- it is a collection of objects having similar properties and methods.In Java,
+		class can contain, member variables(variable),member function(method),constructor.
+
+3.Abstraction	:- it is a process where we focus on required properties of an object.
+		Ex:- color of car is red
+
+4.Encapsulation :- it is a process where we hide the irrelivant things from end user, it is 
+		also called as Data Hiding.
+
+5.Inheritance  :- it is a process where we inherit/abstract/carry forward properties / variables
+		and methods / function from super/base/parrent to sub/deried/child class
+		
+		inheritance is the process where we inherit vasriables and methods from 
+		one class to another class
+
+		in Java,we have 2 types of inheritance
+		1.Single 
+		2.multilevel
+
+		
+
+6.Polymorphism	:- it is process where object behave differently under different circumstances.
+		"Poly" mean "many" and "morph" means "forms", which means when we have many
+		forms of single object then its called as polymorphism.
+
+----------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

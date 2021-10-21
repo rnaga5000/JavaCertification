@@ -1,0 +1,16 @@
+ArrayList internally use a dynamic array 
+where as 
+Linked List internally use Doubly Linked List
+
+Manipulation with ArrayList is slow because lots of shifting internally need to be done
+where as 
+LinkedList is faster than ArrayList because it uses doubly linkked list
+
+
+An ArrayList class act as a list only because it implements List interface
+where as 
+LinkedList class act as list an queue both
+
+ArrayList is better for storing and accessing data
+where 
+LinkedList is better for manipulation
